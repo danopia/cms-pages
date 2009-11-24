@@ -52,7 +52,7 @@ If it has some file reading error, then it can't find the certs (TODO: cleaner
 error message). If it said the server denied the component, ensure that you
 configged your XMPP server correctly (and if you've used FedOne, that it isn't
 running). If anything else happened, either it's good (it didn't crash) or it's
-bad (gist the output and file a bug report).
+bad (gist the output and [send it to me][[contact]).
 
 ### Running the WebUI
 The Sails WebUI is built with Ruby on Rails. The Ruby on Sails name is also
@@ -83,16 +83,13 @@ Contributing
 2. Create a branch
 3. Commit your changes
 4. Push to the branch
-5. Send me a link to your branch (see the "Contact me" section)
+5. Send me a link to your branch (see [Contact me][[contact])
 6. Enjoy a refreshing glass of water (I dislike carbonation) and wait
 
 
 Contact me
 ----------
-I idle in #googlewave and #sails on FreeNode 24/7 and on a private network at
-irc.eighthbit.net. You can send me GitHub messages or email me at
-me.github@danopia.net. I also may read any waves sent to me (my username is
-ddanopia on the public preview, danopia on the sandbox).
+See my global [contact page][[contact]].
 
 
 [github]: http://github.com/danopia/ruby-on-sails

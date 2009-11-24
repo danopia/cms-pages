@@ -9,10 +9,12 @@ Packages
 * Rubygems 1.8 (although on Debian, it's recomeanded to install from source)
 * Dev packages for Ruby
 * Ruby OpenSSL bindings
-* Ruby SQLite3 bindsings (libsqlite3-dev)
+* Ruby SQLite3 bindsings (`libsqlite3-dev` on ubuntu)
 
 Gems
 ----
+	sudo gem install rails thin hpricot authlogic sqlite3-ruby
+	
 * rails
 * thin
 * hpricot
